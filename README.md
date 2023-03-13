@@ -12,4 +12,4 @@ além de dispor diretamente os mesmos no local storage</p>
 <li> utilização do comando find para interagir com elementos especificos
 <li> Manipulação de DOM 
 
-Pode conferir o resultado aqui: https://willmpaim.github.io/Mochila-de-Viajem/
+Pode conferir o resultado aqui: https://willmpaim.github.io/mochila-de-viajem/
