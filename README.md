@@ -1,9 +1,7 @@
 # :school_satchel: Mochila de viajem #
 
-<h2>:file_folder:Sobre o projeto</h2>
-
 <p>Projeto realizado pela Alura onde utilizamos interações com a pagina para adicionar e remover itens dentro de nossa mochila,
-além de dispor diretamente os mesmos no local storage</p>
+além de dispor diretamente os mesmos no local storage.</p>
 
 <h3>Armazenamento no Local Storge</h3>
 
